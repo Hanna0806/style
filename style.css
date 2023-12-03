@@ -1,0 +1,10 @@
+/* a:active,
+a:hover {
+    text-decoration: none;
+    color: #666;
+} */
+
+
+/* a:not([class]) {
+    text-decoration-skip-ink: auto;
+  } */
